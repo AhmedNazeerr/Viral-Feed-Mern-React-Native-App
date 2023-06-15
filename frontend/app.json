@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "native",
+    "slug": "native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share them with your friends."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "29142aea-bf62-4010-beb1-7a35a988ca79"
+      }
+    },
+    "owner": "makk8997"
+  }
+}
