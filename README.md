@@ -1,4 +1,5 @@
 # Mern_React-Native-Teacher-Student-Crm
+## if you have any issue in running this app due to any dependency you can down the zip from here (https://drive.google.com/file/d/1W-SoVvIYdA-eLxRYDFiywJGyhsvLqLaj/view?usp=drive_link)
  ## If you want to purchase the fully developed app, you can visit (https://wwww.cipherhives.com)
     we'll give you a demo, and will pulish it for you on App(ios) and play(andorid) store as well
     
