@@ -1,7 +1,8 @@
 # Mern_React-Native-Teacher-Student-Crm
  ## If you want to purchase the fully developed app, you can visit (https://wwww.cipherhives.com)
-  ## we'll give you a demo, and will pulish it for you of app and play store
-List of Features
+    we'll give you a demo, and will pulish it for you on App(ios) and play(andorid) store as well
+    
+## List of Features
 The list of features:
 1) The user can log in and out using their university account with the aid of this program.
 2) With the use of this software, students can schedule meetings with certain professors and instructors for connected courses for a given time and date.
@@ -55,7 +56,8 @@ They can upload resources under the resources section, can manage their schedule
 ## Admin
 Admin can upload exam schedule (date sheet) and sitting plan, can overview (accept or reject booking requests by societies), can post publically about latest campus happenings and post updates.
 
-#SceenShots of Sprint 2 are Below
+# SceenShots of Sprint 2 are Below
+
 ![WhatsApp Image 2023-06-15 at 9 30 05 PM](https://github.com/AhmedNazeerr/Viral-Feed-Mern-React-Native-App/assets/97975048/68a97153-bc6d-4b0c-b9e3-00e793e401cb)
 
 ![WhatsApp Image 2023-06-15 at 9 30 07 PM](https://github.com/AhmedNazeerr/Viral-Feed-Mern-React-Native-App/assets/97975048/dc235b15-7822-4df9-ad9b-8574d4f77da2)
